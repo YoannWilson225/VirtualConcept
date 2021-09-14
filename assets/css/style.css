@@ -599,7 +599,7 @@ section {
 }
 
 #services .box:hover .title a {
-  color: #2e3192;
+  color: #F70303;
 }
 
 #services .description {
@@ -668,7 +668,7 @@ section {
 /* Call To Action Section
 --------------------------------*/
 #call-to-action {
-  background: #2d2b46;
+  background: #F70303;
   background-size: cover;
   padding: 40px 0;
 }
