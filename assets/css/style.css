@@ -752,7 +752,7 @@ section {
 }
 
 #portfolio #portfolio-flters li:hover, #portfolio #portfolio-flters li.filter-active {
-  color: #2e3192;
+  color: #F70303;
 }
 
 #portfolio #portfolio-flters li:last-child {
@@ -797,6 +797,7 @@ section {
   font-weight: 700;
   margin-bottom: 14px;
   padding-bottom: 0;
+  color: #F70303;
 }
 
 #portfolio .portfolio-item .portfolio-wrap .portfolio-info h4 a {
@@ -804,7 +805,7 @@ section {
 }
 
 #portfolio .portfolio-item .portfolio-wrap .portfolio-info h4 a:hover {
-  color: #2e3192;
+  color: #F70303;
 }
 
 #portfolio .portfolio-item .portfolio-wrap .portfolio-info p {
@@ -837,7 +838,7 @@ section {
 }
 
 #portfolio .portfolio-item .portfolio-wrap .portfolio-info .link-preview:hover, #portfolio .portfolio-item .portfolio-wrap .portfolio-info .link-details:hover {
-  background: #2e3192;
+  background: #F70303;
 }
 
 #portfolio .portfolio-item .portfolio-wrap .portfolio-info .link-preview:hover i, #portfolio .portfolio-item .portfolio-wrap .portfolio-info .link-details:hover i {
